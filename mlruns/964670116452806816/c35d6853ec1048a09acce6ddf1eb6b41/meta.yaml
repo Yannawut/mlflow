@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/964670116452806816/c35d6853ec1048a09acce6ddf1eb6b41/artifacts
+end_time: 1676288057308
+entry_point_name: ''
+experiment_id: '964670116452806816'
+lifecycle_stage: active
+run_id: c35d6853ec1048a09acce6ddf1eb6b41
+run_name: iris_classifier_ver1.0
+run_uuid: c35d6853ec1048a09acce6ddf1eb6b41
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676288053297
+status: 3
+tags: []
+user_id: yanna
